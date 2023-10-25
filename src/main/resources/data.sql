@@ -4,5 +4,5 @@
 INSERT INTO pizza
     (name, image, description)
 VALUES
-    ('Calabresa', '/images/calabresa.webp', 'O recheio é preparado com queijo, molho de tomate, calabresa em rodelas, cebola, tomate picado, azeite e orégano. A azeitona também pode ser acrescentada!')
-    ('Portuguesa', '/images/portuguesa.webp', 'É feita com queijo, azeitona verde ou preta, ovo cozido, presunto cozido, cebola, ervilha, molho de tomate e azeite. Também há preparações que são acrescentadas milho verde, pimentão e orégano!');
+    ('Calabresa', '/images/calabresa.webp', N'O recheio é preparado com queijo, molho de tomate, calabresa em rodelas, cebola, tomate picado, azeite e orégano. A azeitona também pode ser acrescentada!'),
+    ('Portuguesa', '/images/portuguesa.webp', N'É feita com queijo, azeitona verde ou preta, ovo cozido, presunto cozido, cebola, ervilha, molho de tomate e azeite. Também há preparações que são acrescentadas milho verde, pimentão e orégano!');
